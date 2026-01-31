@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Wojtek
-- 👀 Currently learing C++
+- 👀 Currently learing C++, PHP, mySQL
 - 📫 Discord: cisowianka_lekkogazowana
